@@ -14,7 +14,7 @@
 
 ## Installation
 
-1. **Download the Plugin**: Grab the [GitHub repository](https://github.com/roxrosykid/tf2-chat-colors-redux/releases/latest).
+1. **Download the Plugin**: Grab the [latest release](https://github.com/roxrosykid/tf2-chat-colors-redux/releases/latest).
 2. **Install the Plugin**: Place the `.smx` file in your `tf/addons/sourcemod/plugins/` directory.
 3. **Restart the Server**: Restart your server to load the plugin.
 
